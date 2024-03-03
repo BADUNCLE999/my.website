@@ -1,0 +1,118 @@
+img {
+    height: 300px;
+    width: 300px;
+  }
+  html{
+    background-color: burlywood;
+  }
+  about{
+    color: rgb(193, 180, 7);
+  }
+  contact{
+    color: rgb(210, 197, 7);
+  }
+  h1{
+    font-size: 50px;
+  }
+  h1{
+    font-family: sans-serif;
+  }
+h1{
+  text-align: center ;
+  text-transform: uppercase;
+}
+li{
+  color:rgba(255, 242, 0, 0.961) ;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(6, 6, 120);
+}
+body {
+  background-color: aquamarine;
+}
+
+@media (min-width: 319px) and (max-width: 480px) {
+  body {
+    background-color: lightsalmon;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 1200px) {
+  body {
+    background-color: powderblue;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+  body {
+    background-color: rgb(181, 4, 134);
+  }
+}
+
+@media (min-width: 1601px) {
+  body {
+    background-color: rgb(235, 240, 238);
+  }
+}
+
+body {
+  margin: 50px 50px 0 50px;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+.main {
+  flex: 1;
+}
+img{
+  float: left;
+}
+div{
+  background-color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
